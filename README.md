@@ -86,7 +86,7 @@ A one-to-many relationship is established between `Product.ID` and `Sheet1.Produ
 ---
 
 ## 📁 Data
-![Data Schema Preview](https://github.com/Harshalpatil9767/Food-Beverage-Sales-Analysis/blob/3ecc19a2d33aec8083196606b7d304fa6d708b86/Data_Schema.png)
+![Data Schema Preview](https://github.com/Shivansh9307/Sales-analysis-of-food-and-beverage/blob/main/images/Data_Schema.png)
 
 
 ---
